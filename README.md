@@ -2,7 +2,6 @@
 A complete card &amp; commands database for Retcards
 
 # List Of Commands
-- !drop         → Random public card drop
 - !claim        → Claim a card (6h cooldown)
 - !daily        → Claim daily card (12h cooldown)
 - !pack         → Open 3-card pack (3h cooldown, costs coins)
@@ -13,7 +12,6 @@ A complete card &amp; commands database for Retcards
 - !market       → View & buy market cards (12h refresh)
 - !trade @user <your_card> <their_card> → Propose a trade
 - !match @user  → 1v1 card match; winner takes coins
-- !admincard @user <player_name> → Give private card (admin only)
 
 # List Of Public Players
 - Sangji
