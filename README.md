@@ -19,9 +19,5 @@ A complete card &amp; commands database for Retcards
 - Sangji
 - Sooraj
 
-# List Of Private Players
-- Tensei Lawden
-- Bosaki LIM
-
 
 *Detailed Player Lists will be shown in the specifc folders and files.*
